@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-26T13:26:44 IST" name="Default Suite" finished-at="2024-01-26T13:28:21 IST" duration-ms="96302">
+    <groups>
+    </groups>
+    <test started-at="2024-01-26T13:26:44 IST" name="C:/Users/User/MyTestngProject/pom.xml" finished-at="2024-01-26T13:28:21 IST" duration-ms="96302">
+      <class name="LoginPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:LoginPageTest@78ffe6dc]" started-at="2024-01-26T13:26:45 IST" name="setup" finished-at="2024-01-26T13:26:56 IST" duration-ms="11110" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="setup()[pri:0, instance:LoginPageTest@78ffe6dc]" started-at="2024-01-26T13:26:56 IST" name="setup" finished-at="2024-01-26T13:27:12 IST" duration-ms="15902" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:LoginPageTest@78ffe6dc]" started-at="2024-01-26T13:27:12 IST" name="teardown" finished-at="2024-01-26T13:27:13 IST" duration-ms="1310" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:LoginPageTest@78ffe6dc]" started-at="2024-01-26T13:27:13 IST" name="setup" finished-at="2024-01-26T13:27:23 IST" duration-ms="10396" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="imageheading()[pri:1, instance:LoginPageTest@78ffe6dc]" started-at="2024-01-26T13:27:23 IST" name="imageheading" finished-at="2024-01-26T13:27:24 IST" duration-ms="188" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- imageheading -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:LoginPageTest@78ffe6dc]" started-at="2024-01-26T13:27:24 IST" name="teardown" finished-at="2024-01-26T13:27:25 IST" duration-ms="1006" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:LoginPageTest@78ffe6dc]" started-at="2024-01-26T13:27:25 IST" name="setup" finished-at="2024-01-26T13:27:36 IST" duration-ms="11150" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="bottomsection()[pri:2, instance:LoginPageTest@78ffe6dc]" started-at="2024-01-26T13:27:36 IST" name="bottomsection" finished-at="2024-01-26T13:27:37 IST" duration-ms="1151" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bottomsection -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:LoginPageTest@78ffe6dc]" started-at="2024-01-26T13:27:37 IST" name="teardown" finished-at="2024-01-26T13:27:38 IST" duration-ms="822" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:LoginPageTest@78ffe6dc]" started-at="2024-01-26T13:27:38 IST" name="setup" finished-at="2024-01-26T13:27:43 IST" duration-ms="5646" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="imagetest()[pri:3, instance:LoginPageTest@78ffe6dc]" started-at="2024-01-26T13:27:43 IST" name="imagetest" finished-at="2024-01-26T13:27:47 IST" duration-ms="3587" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- imagetest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:LoginPageTest@78ffe6dc]" started-at="2024-01-26T13:27:47 IST" name="teardown" finished-at="2024-01-26T13:27:48 IST" duration-ms="1152" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:LoginPageTest@78ffe6dc]" started-at="2024-01-26T13:27:48 IST" name="setup" finished-at="2024-01-26T13:28:00 IST" duration-ms="12363" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="gamesapp()[pri:4, instance:LoginPageTest@78ffe6dc]" started-at="2024-01-26T13:28:00 IST" name="gamesapp" finished-at="2024-01-26T13:28:01 IST" duration-ms="401" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gamesapp -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:LoginPageTest@78ffe6dc]" started-at="2024-01-26T13:28:01 IST" name="teardown" finished-at="2024-01-26T13:28:03 IST" duration-ms="2042" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:LoginPageTest@78ffe6dc]" started-at="2024-01-26T13:28:03 IST" name="setup" finished-at="2024-01-26T13:28:11 IST" duration-ms="8562" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="nwspage()[pri:5, instance:LoginPageTest@78ffe6dc]" started-at="2024-01-26T13:28:11 IST" name="nwspage" finished-at="2024-01-26T13:28:12 IST" duration-ms="386" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nwspage -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:LoginPageTest@78ffe6dc]" started-at="2024-01-26T13:28:12 IST" name="teardown" finished-at="2024-01-26T13:28:13 IST" duration-ms="841" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:LoginPageTest@78ffe6dc]" started-at="2024-01-26T13:28:13 IST" name="setup" finished-at="2024-01-26T13:28:19 IST" duration-ms="6682" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="foodapp()[pri:6, instance:LoginPageTest@78ffe6dc]" started-at="2024-01-26T13:28:19 IST" name="foodapp" finished-at="2024-01-26T13:28:20 IST" duration-ms="350" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- foodapp -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:LoginPageTest@78ffe6dc]" started-at="2024-01-26T13:28:20 IST" name="teardown" finished-at="2024-01-26T13:28:21 IST" duration-ms="1078" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- LoginPageTest -->
+    </test> <!-- C:/Users/User/MyTestngProject/pom.xml -->
+  </suite> <!-- Default Suite -->
+</testng-results>
